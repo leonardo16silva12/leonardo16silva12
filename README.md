@@ -9,7 +9,7 @@ Tudo posso naquele que me fortalece.
 <br/>🔧 Desenvolvimento de projetos com Ionic/Angular & Javascript/Typescript
 <br/>🧑🏻 Sobre mim: Quero a cada dia, aprender sempre um pouco mais...
 <br/>📚 O que estudo? Java, Javascript, Ionic, Angular e Python
-<br/>✉️ Contato: [![Linkedin Badge](https://img.shields.io/badge/LeonardoFelipeSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-s-a496bb18b/)](https://www.linkedin.com/in/leonardo-s-a496bb18b/) 
+<br/>✉️ Contato: [![Linkedin Badge](https://img.shields.io/badge/Leonardo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-s-a496bb18b/)](https://www.linkedin.com/in/leonardo-s-a496bb18b/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-leonardooo545@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardooo545@gmail.com)](mailto:leonardooo545@gmail.com)
 
