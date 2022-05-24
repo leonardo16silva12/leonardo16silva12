@@ -2,8 +2,7 @@
 
 # Leonardo Felipe da Silva
 
-## Falaa devs!!! 🚀
-Tudo posso naquele que me fortalece.
+## Olá, vem sempre aqui? 🚀
 
 👨🏽‍💻 Técnico em Informática
 <br/>🔧 Desenvolvimento de projetos com Ionic/Angular & Javascript/Typescript
