@@ -5,9 +5,8 @@
 </div>
 
 ## Olá, vem sempre aqui? 🚀
----
 
-🙋‍♂️ Leonardo Felipe da Silva
+🙋‍♂️ Meu nome é Leonardo Silva, me considero um amante da tecnologia e tento a cada dia aprender coisas novas...
 <br/>👨🏽‍💻 Técnico em Informática
 <br/>🔧 Desenvolvimento de projetos com Ionic/Angular & Javascript/Typescript, Automação de Testes;
 <br/>📚 O que estudo? Java, Javascript, Ionic, Angular e Selenium Java;
