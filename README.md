@@ -1,4 +1,4 @@
-<img width="1200px" height="300px" src="https://i.pinimg.com/originals/7a/9e/eb/7a9eeb4fa972a27c412e6a114386115b.jpg">
+<img width="1080px" height="400px" src="https://i.pinimg.com/originals/7a/9e/eb/7a9eeb4fa972a27c412e6a114386115b.jpg">
 
 # Leonardo Felipe da Silva
 
@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://github.com/leonardo16silva12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo16silva12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/ username=leonardo16silva12&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo16silva12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </div>
 
 ---
