@@ -1,8 +1,10 @@
 <img width="1080px" height="500px" src="https://i.pinimg.com/originals/7a/9e/eb/7a9eeb4fa972a27c412e6a114386115b.jpg">
 
-# Leonardo Felipe da Silva
+Leonardo Felipe da Silva
+---
 
-## Olá, vem sempre aqui? 🚀
+Olá, vem sempre aqui? 🚀
+---
 
 👨🏽‍💻 Técnico em Informática
 <br/>🔧 Desenvolvimento de projetos com Ionic/Angular & Javascript/Typescript, Automação de Testes;
