@@ -1,4 +1,4 @@
-<img width="1080px" height="500px" src="https://i.pinimg.com/originals/7a/9e/eb/7a9eeb4fa972a27c412e6a114386115b.jpg">
+<img width="800px" height="300px" src="https://i.pinimg.com/originals/7a/9e/eb/7a9eeb4fa972a27c412e6a114386115b.jpg">
 
 ## Olá, vem sempre aqui? 🚀
 ---
