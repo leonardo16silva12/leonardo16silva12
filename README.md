@@ -10,10 +10,12 @@
 <br/>👨🏽‍💻 Técnico em Informática
 <br/>🔧 Desenvolvimento de projetos com Ionic/Angular & Javascript/Typescript, Automação de Testes;
 <br/>📚 O que estudo? Java, Javascript, Ionic, Angular e Selenium Java;
-<br/>✉️ Contato: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-s-a496bb18b/)](https://www.linkedin.com/in/leonardo-s-a496bb18b/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardooo545@gmail.com)](mailto:leonardooo545@gmail.com)
+<br/>
 
+<div align="center">
+  <a href = "mailto:leonardooo545@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-s-a496bb18b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 ---
 
 <div align="center">
