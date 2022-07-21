@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="900px" height="450px" src="https://i.pinimg.com/originals/9b/c0/31/9bc031ded28a4eccb4a3f1df621ff84d.png">
+<img width="900px" height="450px" src="https://www.10wallpaper.com/wallpaper/2560x1600/1701/Coffee_writing_computer_blogging-Brand_HD_Wallpaper_2560x1600.jpg">
   
 </div>
 
