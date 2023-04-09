@@ -11,8 +11,8 @@
 🙋‍♂️ Meu nome é Leonardo Silva, me considero um amante da tecnologia e tento a cada dia aprender coisas novas...
 <br/>👨🏽‍💻 Técnico em Informática
 <br/>📚 Graduando em Engenharia da Computação
-<br/>🔧 Desenvolvimento de projetos com Ionic/Angular & Javascript/Typescript, Automação de Testes (Selenium WebDriver)
-<br/>⚡️ O que estudo? Java, Javascript, Ionic, Angular e Selenium Java
+<br/>🔧 Desenvolvimento de projetos com Ionic/Angular & Javascript/Typescript, Automação de Testes (Selenium WebDriver) e Automação Mobile (Appium)
+<br/>⚡️ O que estudo? Java, Javascript, Ionic, Angular, Selenium Java, Appium, etc;
 <br/>
 
 <div align="center">
