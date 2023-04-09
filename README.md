@@ -12,7 +12,7 @@
 <br/>👨🏽‍💻 Técnico em Informática
 <br/>📚 Graduando em Engenharia da Computação
 <br/>🔧 Desenvolvimento de projetos com Ionic/Angular & Javascript/Typescript, Automação de Testes (Selenium WebDriver) e Automação Mobile (Appium)
-<br/>⚡️ O que estudo? Java, Javascript, Ionic, Angular, Selenium Java, Appium, etc;
+<br/>⚡️ O que estudo? Java, Javascript, Ionic, Angular, Selenium Java, Appium
 <br/>
 
 <div align="center">
@@ -25,7 +25,7 @@
 <div align="center">
   <a href="https://github.com/leonardo16silva12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo16silva12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoArtioli&layout=compact&show_icons=true&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo16silva12&layout=compact&show_icons=true&theme=dark" />
 </div>
 
 ---
