@@ -1,5 +1,5 @@
 
-## Olá, vem sempre aqui? 🚀
+## Olá, vem sempre aqui?
 
 🙋‍♂️ Meu nome é Leonardo Silva, me considero um amante da tecnologia e tento a cada dia aprender coisas novas...
 <br/>👨🏽‍💻 Técnico em Informática
