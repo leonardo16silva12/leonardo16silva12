@@ -1,4 +1,4 @@
----
+
 <br/>👨🏽‍💻 Técnico em Informática
 <br/>📚 Graduando em Engenharia da Computação
 <br/>⚡️ O que estudo? Java, Javascript, Ionic, Angular, Selenium Java, Appium
@@ -14,7 +14,6 @@
   <a href = "mailto:leonardofelipesilva207@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-s-a496bb18b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
----
+
 
 
