@@ -1,8 +1,6 @@
-
-<br/>👨🏽‍💻 Técnico em Informática
+👨🏽‍💻 Técnico em Informática
 <br/>📚 Graduando em Engenharia da Computação
 <br/>⚡️ O que estudo? Java, Javascript, Ionic, Angular, Selenium Java, Appium
-<br/>
 
 <div align="center">
   <a href="https://github.com/leonardo16silva12">
