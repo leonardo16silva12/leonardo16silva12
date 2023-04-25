@@ -1,5 +1,5 @@
 👨🏽‍💻 Técnico em Informática
-<br/>💻 Atualmente trabalhando como QA | Automation & Tester
+<br/>💻 Atualmente trabalhando como QA Analyst | Analista de Testes
 <br/>📚 Graduando em Engenharia da Computação
 <br/>⚡️ O que estudo? Java, Javascript, Selenium, Appium, Jenkins
 
