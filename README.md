@@ -1,6 +1,6 @@
 👨🏽‍💻 Técnico em Informática
 <br/>📚 Graduando em Tecnologia da Informação
-<br/>💻 Atualmente trabalhando como QA Engineer
+<br/>💻 Atualmente trabalhando como QA Analyst
 <br/>⚡️ O que estudo? Java, Javascript, Selenium, Appium, Cypress, Playwright, Jenkins
 
 <div align="center">
