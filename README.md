@@ -1,4 +1,4 @@
-## 👨🏽‍💻 Leonardo Silva
+## 👨🏻‍💻 Leonardo Silva
 
 💻 **Analista de Qualidade de Software (QA)** na Support Sistemas de Gestão  
 🎓 **Técnico em Informática** | Graduado em **Tecnologia da Informação**  
