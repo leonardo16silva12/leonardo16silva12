@@ -1,6 +1,6 @@
 ## 👨🏽‍💻 Leonardo Silva
 
-💻 **QA Analyst** na Support Sistemas de Gestão  
+💻 **Analista de Qualidade de Software (QA)** na Support Sistemas de Gestão  
 🎓 **Técnico em Informática** | Graduado em **Tecnologia da Informação**  
 
 ---
@@ -45,6 +45,6 @@
 
 ### ⚡ Um pouco sobre mim
 
-- 🎯 Motivado por aprender algo novo e aprimorar continuamente o que já domino
-- 🧪 Testes bem feitos salvam vidas (e a sanidade dos devs também 😄)
-- 🤖 Vejo a automação como essencial para garantir a qualidade e longevidade de qualquer sistema — ninguém merece testar manualmente a mesma coisa a cada nova feature, né?
+- 🎯 Motivado por aprender algo novo e aprimorar continuamente o que já domino  
+- 🧪 Testes bem feitos salvam vidas (e a sanidade dos devs também 😄)  
+- 🤖 Acredito que a automação é essencial para garantir a qualidade e a vida útil de qualquer sistema — afinal, ninguém merece testar a mesma coisa manualmente toda vez que sai uma nova feature...
