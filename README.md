@@ -16,14 +16,14 @@ Experiência em ambientes ágeis (Scrum e Kanban), colaborando com times de dese
 
 ### 🧪 Principais Habilidades
 
-- ✔️ Automação de testes web (Selenium, Cypress, Playwright)  
-- ✔️ Automação de testes mobile (Appium - Android)  
-- ✔️ Criação e padronização de frameworks de automação  
-- ✔️ Integração com CI/CD (Jenkins)  
-- ✔️ Testes de API (Postman / Insomnia)  
-- ✔️ Validação de dados com SQL  
-- ✔️ Testes funcionais, integração e regressão  
-- ✔️ Versionamento com Git  
+- Automação de testes web (Selenium, Cypress, Playwright)  
+- Automação de testes mobile (Appium - Android)  
+- Criação e padronização de frameworks de automação  
+- Integração com CI/CD (Jenkins)  
+- Testes de API (Postman / Insomnia)  
+- Validação de dados com SQL  
+- Testes funcionais, integração e regressão  
+- Versionamento com Git  
 
 ---
 
